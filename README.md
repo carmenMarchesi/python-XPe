@@ -4,8 +4,6 @@ Códigos desenvolvidos no curso de Python da
 
 ![XPE](img/xpe-logo.png)
 
-<br>
-
 ## Módulo Análise de Dados
 - [Arrays](AnaliseDados/Arrays.ipynb)
 
